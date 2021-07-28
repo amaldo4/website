@@ -4,10 +4,6 @@ defaultContentLanguage = "en"
 theme = "almeida-cv"
 title = "Austin Maldonado Resume"
 
-contentDir = "content/resume"
-publishDir = "public/resume"
-staticDir = "static/resume"
-
 [params]
 colorDark = "#666"
 colorLight = "#fff"
