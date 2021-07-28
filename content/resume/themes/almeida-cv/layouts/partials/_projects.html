@@ -1,0 +1,15 @@
+{{ if .Site.Data.content.Projects }}
+<div id="profile" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">{{ i18n "projects" }}</h2>
+    </div>
+    <div class="section__content">
+        {{ range .Site.Data.content.Projects }}
+        <div class="education__item">
+            <h3 class="education__title">{{ .Title | safeHTML }}</h3>
+            <div class="education__description">{{ .Details | safeHTML }}</div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,15 @@
+baseURL = "https://austinmaldonado.com/resume"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "almeida-cv"
+title = "Austin Maldonado Resume"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#1167b1"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#2a9df4"
+pages = 1
