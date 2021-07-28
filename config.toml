@@ -1,4 +1,4 @@
-baseURL = "https://austinmaldonado.com"
+baseURL = "https://localhost"
 title   = "Austin Maldonado"
 languageCode = "en-us"
 theme = "hello-friend-ng"
