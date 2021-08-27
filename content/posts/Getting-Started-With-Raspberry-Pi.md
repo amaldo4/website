@@ -2,11 +2,11 @@
 author:
   name: "Austin Maldonado"
 date: 2021-08-26
-linktitle: Getting Started With Raspberry-Pi
+linktitle: Getting Started With Raspberry Pi
 type:
 - post
 - posts
-title: Getting Started With Raspberry-Pi
+title: Getting Started With Raspberry Pi
 weight: 10
 series:
 - Raspberry-Pi
@@ -15,25 +15,25 @@ series:
 
 ## Introduction
 
-The Raspberry-Pi has made it incredibly easy for someone to get access to a quality computing experience without having to break the bank. As a college student this is a perfect machine for me.
-I can get it up and running quickly, the form factor is small, and Raspberry-Pi OS is based on Linux so it is helpful for many of my college classes as a computer science student.
-With the release of the Pi 4 in June of 2019, the Raspberry-Pi now sports a 2GB, 4GB, and 8GB model, all of which have gigabit ethernets ports and USB 3.0 ports for starters. These credit card sized machines are perfect for many applications. 
+The Raspberry Pi has made it incredibly easy for someone to get access to a quality computing experience without having to break the bank. As a college student this is a perfect machine for me.
+I can get it up and running quickly, the form factor is small, and Raspberry Pi OS is based on Linux so it is helpful for many of my college classes as a computer science student.
+With the release of the Pi 4 in June of 2019, the Raspberry Pi now sports a 2GB, 4GB, and 8GB model, all of which have gigabit ethernets ports, USB 3.0 ports, and an ARM processor. These credit card sized machines are perfect for many applications. 
 
 Getting started with one is easy and you can get it up and running quickly without much effort. 
-Below I'll walk through the steps of setting up a Raspberry-Pi. 
+Below I'll walk through the steps of setting up a Raspberry Pi. 
 I personally am using a Pi 4 4GB, but the instructions will be the same regardless of your Pi model.
 
 ## Items You'll Need
 
 You'll need the following items in order to get your Pi up and running:
-1. Raspberry-Pi 4 in whatever RAM amount you want.
-2. A USB-C power supply (if using Raspberry-Pi 4, 3 and below would use a micro-usb charger).
-3. MicroSD card (At least 8GB required)
-4. Keyboard, mouse, and display.
+* Raspberry Pi 4 in whatever RAM config you want
+* A USB-C power supply (if using Raspberry Pi 4,  Pi 3 and below would use a micro-usb charger)
+* MicroSD card (At least 8GB required)
+* Keyboard, mouse, and display
 
 Optional items: 
-1. MicroSD card reader to load items onto SD card, not necessary if computer has a built-in SD card slot.
-2. Ethernet cable. Not necessary if you plan to use WIFI, but good to have.
+* MicroSD card reader to load items onto SD card, not necessary if computer has a built-in SD card slot.
+* Ethernet cable. Not necessary if you plan to use WIFI, but good to have.
 
 ## Prepping SD Card
 We are going to be using the Raspberry-Pi OS Imager in order to prep our SD card. You can find the Imager [here](https://www.raspberrypi.org/software/).
@@ -62,8 +62,8 @@ The order or what you plug in doesn't really matter, but you want to make sure i
 After connecting everything to the Pi, we are ready to start it for the first time.
 
 ## Starting the Pi
-To start the Pi, simply plug in the power cable to power, then plug the other end into the power port on the Pi. There is no power button on the standard power supply sold by Raspberry-Pi, so there is no need to press an "On" button.
-Once you plug it in, you will see a red light on the Pi signalling that it is on. While booting, you will also see raspberries on the top left-hand corner of your monitor. Once the Pi is booted you will see the standard background appear.
+To start the Pi, simply plug in the power cable to power, then plug the other end into the power port on the Pi. There is no power button on the standard power supply sold by Raspberry Pi, so there is no need to press an "On" button.
+Once you plug it in, you will see a red light on the Pi signalling that it is on. While booting, you will also see raspberries on the top left-hand corner of your monitor. Once the Pi is booted you will see the [standard](https://projects.raspberrypi.org/en/projects/custom-pi-desktop/1) background appear.
 
 ## Finishing Set-up
 We are almost finished but there are a few extra things to set up once the Pi succesfully boots for the first time. 
