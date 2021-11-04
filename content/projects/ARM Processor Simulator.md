@@ -1,7 +1,7 @@
 ---
 author:
   name: "Austin Maldonado"
-date: 2020-12-15
+date: 2021-09-13
 linktitle: ARM Processor Simulator
 type:
 - project

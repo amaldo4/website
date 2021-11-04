@@ -1,7 +1,7 @@
 ---
 author:
   name: "Austin Maldonado"
-date: 2020-12-15
+date: 2021-12-15
 linktitle: NFL Rushing Visualizer
 type:
 - project
@@ -15,8 +15,12 @@ series:
 
 ## Description
 
-For my computer architecture class, we had a semester long project where we implemented popular principles of processor developlment to a simulated ARM processor.
-Throughout the semester I implemented piplining, forwarding paths, and a cache for the simulated processor. Towards the end of the semester we started to researh and apply
-multithreading to the processor. This is still a class project that is taught at the university so my repository containing the code on github is private, but I can produce code and talk extensively about it
-in regards to interviews if requested.
+I love sports. Across all major sports, how data is used to dictate gamescripts has drastically changed in the past few years. From NBA players taking way more threes than twos, to the fact that
+NFL teams are incredibly more likely to go for it on fourth down than ever before. This year I wanted to use a couple tools to help me with my fantasy football team. Using matplotlib and pandas
+I wrote a simple python program that will pull rushing data from nflfastpy, take the data to populate some frames, then create a visualization that displays what areas of the field popular RBs are
+receiving their work. While it was a great project to learn some basics about data analysis and the power of python for data science, it has not helped my fantasy team at all.
+
+##Github
+
+##Google Colab
 
