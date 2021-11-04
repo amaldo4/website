@@ -20,7 +20,7 @@ NFL teams are incredibly more likely to go for it on fourth down than ever befor
 I wrote a simple python program that will pull rushing data from nflfastpy, take the data to populate some frames, then create a visualization that displays what areas of the field popular RBs are
 receiving their work. While it was a great project to learn some basics about data analysis and the power of python for data science, it has not helped my fantasy team at all.
 
-##Github
+## Github
 
-##Google Colab
+## Google Colab
 
