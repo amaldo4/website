@@ -1,7 +1,7 @@
 ---
 author:
   name: "Austin Maldonado"
-date: 2021-11-4
+date: 2021-11-04
 linktitle: NFL Rushing Visualizer
 type:
 - project
