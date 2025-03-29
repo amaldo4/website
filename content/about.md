@@ -6,4 +6,6 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-I worked in education before returning to school to persue a degree in computer science. I am a beginner engineer about to graduate and I am ready to begin a new career in software engineering. I am a passionate worker and proven leader with excellent time/project/priority management skills. I am a capable learner who can not only rapidly close any knowledge gap, but I enjoy teaching others as well. My anticipated graduation is December of 2021.
+I am a junior full stack software developer focusing on the angular framework as well as ASP.NET. I worked in education before returning to school to persue a degree in computer science. I am a passionate worker and proven leader with excellent time/project/priority management skills. I am a capable learner who can not only rapidly close any knowledge gap, but I enjoy teaching others as well. I have been in the industry since summer 2022.
+
+When not writing code at work, I enjoy working on cars, building computers, and playing/listening to music.
